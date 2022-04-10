@@ -18,7 +18,7 @@
   ## Description
   This project is a portfolio generator that dynamically produces a high-quality user portfolio file directly from the command line.
   
-  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
+  <img src="https://github.com/ccd330/portfolio-generator/blob/main/dist/demo.png" />
 
   ## Installation Instructions
   Download file package and install dependencies: Node.js, Inquirer, npm.
